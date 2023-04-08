@@ -1,6 +1,11 @@
-h1.first{background-color: blueviolet;}
+*{background-color:lightskyblue;}
+h1{text-align: center;}
 
-h1.second{background-color: greenyellow;}
+li{display: inline-block; padding: 20px;}
+ul{text-align: center;}
 
-ul.ingred{background-color: red;}
-h1.milk{background-color: aqua;}
+img{display: block;
+margin:auto}
+
+p{color: white;}
+li{color: saddlebrown;}
